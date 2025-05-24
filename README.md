@@ -1,10 +1,10 @@
-#📊 Profissão Cientista de Dados – M14 Pratique
+# 📊 Profissão Cientista de Dados – M14 Pratique
 
-##📝 Descrição
+## 📝 Descrição
 
 Este projeto tem como objetivo realizar uma análise exploratória de dados utilizando Python e as bibliotecas Pandas, Matplotlib e Seaborn. A base de dados contém informações sobre clientes, incluindo atributos como gênero, forma de pagamento, serviços contratados e se o cliente cancelou ou não o serviço (churn).
 
-##📁 Estrutura
+## 📁 Estrutura
 
 Profissao Cientista de Dados M14 Pratique.ipynb: Notebook principal com todas as etapas do projeto.
 
@@ -22,7 +22,7 @@ Substituição de valores nulos por média ou mediana
 
 Geração de boxplot para análise de possíveis outliers
 
-##⚙️ Tecnologias utilizadas
+## ⚙️ Tecnologias utilizadas
 
 Python 3.x
 
@@ -32,7 +32,7 @@ Matplotlib
 
 Seaborn
 
-##📬 Contato
+## 📬 Contato
 
 📧 joao.prsg@outlook.com
 
